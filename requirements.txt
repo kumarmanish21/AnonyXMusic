@@ -6,6 +6,7 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
+asyncio
 motor==3.3.0
 pillow
 psutil
@@ -22,4 +23,3 @@ numpy
 yt-dlp
 youtube-search
 youtube-search-python
-asyncio
